@@ -1,2 +1,5 @@
-# Roll-Daddy
-A polyhedral dice roller written in Python for use in DnD or another similar RPG
+# Roll Daddy
+
+This is a simple dice roller written in python for use in DnD or similar polyhedral dice games.
+The project is released under the GNU General Public License v3
+This project is written in Python 3 and uses PyQt5 for the gui framework.

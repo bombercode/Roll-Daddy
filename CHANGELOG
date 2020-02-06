@@ -1,0 +1,35 @@
+Version 0_0_3
+fixed an indent error in try block
+added in some text indicating 0 can be used to quit
+added in some text indicating 0 was used and program is quitting
+
+Version 0_0_4
+background code improvement
+
+Version 0_1_0
+gui foundation was added
+code tweaked to go with the gui
+
+Version 0_1_1
+gui tweaking, created "dark theme" for the program
+some readability changes with the output
+tweaked window dimensions and set where the window launches
+some code organization
+
+Version 0_1_2
+started redesign of gui using PyQt5
+
+Version 0_2_0
+finished gui design
+added dark theme stylesheet
+changed the output labels to be empty until a dice is rolled
+code clean up
+
+Version 0_2_1
+output font size changes
+set minimum value for number of dice from 0 to 1
+
+Version 1_0_0
+fixed modifier issue
+code cleanup
+finalize program foundation
