@@ -1,5 +1,5 @@
 # Roll Daddy
-![](https://gph.is/1KeMpPn)
+
 
 This is a simple dice roller written in python for use in DnD or similar polyhedral dice games.
 The project is released under the GNU General Public License v3
