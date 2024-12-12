@@ -1,6 +1,6 @@
 '''
 Roll Daddy
-Created by Austin Poe | John Hornak | 2020
+Created by bombercode | hornak0701 | 2020
 Released under GNU General Public License Version 3
 
 '''
